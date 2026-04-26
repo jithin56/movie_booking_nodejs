@@ -1,0 +1,12 @@
+{
+  "name": "movie-booking-system",
+  "version": "1.0.0",
+  "description": "Simple movie booking system with creative static UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
